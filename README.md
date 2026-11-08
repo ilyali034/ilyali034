@@ -5,6 +5,10 @@
 
 [Orcid](https://orcid.org/0009-0008-6885-0438)
 
+# Scientific Papers
+
+[The emotional component of behavioral finance: a content analysis of comments by Russian users in financial communities on the social network VKontakte](https://1economic.ru/lib/126995)
+
 ## 🌐 Socials:
 
 [![Telegram](https://img.shields.io/badge/Telegram-%237289DA.svg?logo=Telegram&logoColor=white)](https://t.me/Ilya_li004) 
