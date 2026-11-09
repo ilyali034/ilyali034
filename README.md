@@ -1,8 +1,5 @@
 # Ilya Linchenko (ilyali034)
 
-🌱 I’m currently learning DevOps  
-📔 Creating a neuron networks
-
 [Orcid](https://orcid.org/0009-0008-6885-0438)
 
 # Scientific Papers
