@@ -4,7 +4,7 @@
 
 # Scientific Papers
 
-[The emotional component of behavioral finance: a content analysis of comments by Russian users in financial communities on the social network VKontakte](https://1economic.ru/lib/126995)
+- [The emotional component of behavioral finance: a content analysis of comments by Russian users in financial communities on the social network VKontakte](https://1economic.ru/lib/126995)
 
 ## 🌐 Socials:
 
